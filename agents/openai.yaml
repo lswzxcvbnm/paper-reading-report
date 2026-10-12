@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文阅读与汇报"
+  short_description: "精读论文并生成以方法为重点的三部分 Markdown 汇报稿，含原文截图与公式讲解"
+  default_prompt: "请使用 $paper-reading-report 阅读这篇论文，生成 Motivation、Method、Experiment 三部分的中文 Markdown 汇报稿，重点讲清方法与复杂公式，并截取原文关键图表。"
